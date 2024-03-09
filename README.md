@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pradyot Soni</h1>
 
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Frontend+Web+Developer;Technical+Content+Writer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -38,11 +40,10 @@
 <a href="https://instagram.com/pradyyy_s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradyyy_s_" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyot29&label=Profile%20views&color=0e75b6&style=flat" alt="pradyot29" /> </p>
 
 ------
 
 
-[Pradyot29](https://github.com/pradyot29)
+[pradyot29](https://github.com/pradyot29)
 
 Last Edited on: 09/03/2024
